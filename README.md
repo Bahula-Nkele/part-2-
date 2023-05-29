@@ -10,3 +10,4 @@ in addition, entering the food group and number of calories
 once all is captured user will be prompted to choose if they would like to display, scale or reset recipe
 if user chooses display, they can choose to either display by name or diplay in alphabetical order by name
 Contact Info- Incase users or Other developers would like to get in touch they can access me @ST10170388rcconnect.edu.za
+Link to github-https://github.com/Bahula-Nkele/part-2-.git
